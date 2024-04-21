@@ -13,3 +13,10 @@ FCT是電子電氣功能性測試，即完成ict測試步驟後，轉到產品�
 
 綜上所述，我們不難發現Fct測試vs ICT測試區別在於，雖然它們都是用來測試PCBA功能方面的問題，但是ICT測試主要為靜態測試，主要檢測的時PCBA板上各種元器件的電路功能情况，而FCT測試為動態測試，是用來檢測PCBA整板的功能性問題，而一般兩種測試方法的先後順序為，先進行ICT測試， 測試通過後再進行FCT測試，而FCT測試通過的話也只能證明該電路板可以正常工作，後續還要再進行老化測試、疲勞測試，來測試電路板的穩定性和可靠性是否存在异常，如果測試全部通過才能證明該電路板是合格的，可以正常使用。
 
+
+SIP圖解
+
+<img width="2972" alt="image" src="https://github.com/hankpm/AI_GPT/assets/154722974/56bd39d2-23b2-4d9c-b085-534298aa4a66">
+
+
+<img width="1955" alt="image" src="https://github.com/hankpm/AI_GPT/assets/154722974/710e6b95-65a2-4091-a7af-c20a70061adb">
