@@ -16,7 +16,3 @@ FCT是電子電氣功能性測試，即完成ict測試步驟後，轉到產品�
 
 SIP圖解
 
-<img width="2972" alt="image" src="https://github.com/hankpm/AI_GPT/assets/154722974/56bd39d2-23b2-4d9c-b085-534298aa4a66">
-
-
-<img width="1955" alt="image" src="https://github.com/hankpm/AI_GPT/assets/154722974/710e6b95-65a2-4091-a7af-c20a70061adb">
